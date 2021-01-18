@@ -3,7 +3,7 @@
         {
             "name": "Paweł Czeczot",
             "description": "Cześć, nazywam się Paweł i jestem studentem Informatyki 2 Stopnia na Uniwersytecie w Białymstoku.",
-            "urlToImage": "https://i.imgur.com/fMGFMgH.jpg",
+            "urlToImage": "\"https://i.imgur.com/fMGFMgH.jpg\"",
             "phone": "500006265",
             "email": "pawelczeczot@gmail.com"
         }
