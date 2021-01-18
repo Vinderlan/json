@@ -1,0 +1,102 @@
+
+{
+    "newsy":{
+    
+        "news":{
+    
+            "id": 1,
+            "title": "Nowe informacje o zakażeniach koronawirusem w Polsce",
+            "description": "Mamy 6 tys. 55 nowych i potwierdzonych przypadków zakażenia koronawirusem - poinformowało w sobotę Ministerstwo Zdrowia. Z powodu COVID-19 zmarło 37 osób, natomiast z powodu współistnienia COVID-19 z innymi schorzeniami zmarło 105 osób.",
+            "category": "Zdrowie",
+            "date": "2021-01-17",
+            "author": "Paweł Czeczot",
+            "urlToImage": "https://bi.im-g.pl/im/62/75/19/z26694242IH,Epidemia-koronawirusa.jpg",
+            "contents": "Jak podało Ministerstwo Zdrowia, w ciągu doby przybyło 6055 zakażenia koronawirusem. Są to przypadki z województw:  wielkopolskiego (826), mazowieckiego (816), kujawsko-pomorskiego (658), pomorskiego (603), śląskiego (408), łódzkiego (351), zachodniopomorskiego (324), lubelskiego (318), dolnośląskiego (302), warmińsko-mazurskiego (287), lubuskiego (247), małopolskiego (225), podkarpackiego (177), świętokrzyskiego (125), podlaskiego (121), opolskiego (99). 6055 zakażeń COVID-19. Zmarły 142 osoby  166 zakażeń to dane bez wskazania adresu, które zostaną uzupełnione przez inspekcję sanitarną - podaje resort. Z powodu COVID-19 zmarło 37 osób, natomiast z powodu współistnienia COVID-19 z innymi schorzeniami zmarło 105 osób. Liczba zakażonych koronawirusem: 1 435 582/33 355 (wszystkie pozytywne przypadki/w tym osoby zmarłe) - informuje MZ.",
+    
+            "comments":
+            [
+                {
+                    "nick": "Kujaw",
+                    "text": "wszyscy zgininiemy",
+                    "commentDate": "2021-01-17 15:37"
+                },
+    
+                {
+                    "nick": "Agrendus",
+                    "text": "Hahahaha chyba Ty, bo ja mam sie dobrze",
+                    "commentDate": "2021-01-17 16:38"
+                },
+    
+                {
+                    "nick": "Grzebek",
+                    "text": "To wszystko wina rządu",
+                    "commentDate": "2021-01-17 18:31"
+                },
+    
+                {
+                    "nick": "Tabaluga",
+                    "text": "Mam nadzieje, ze  wreszcie skonczy sie ten lockdown",
+                    "commentDate": "2021-01-17 21:28"
+                }
+    
+            ],
+    
+            "views": 2456,
+            "keywords":["covid","wirus","pandemia","choroby"]
+    
+        },
+    
+    
+    
+    
+    
+    
+    
+         "news2":{ 
+    
+            "id": 2,
+            "title": "Wiedźmin 3 bije kolejne rekordy. Ponad 8 milionów kopii gry na Steam.",
+            "description": "Wiedźmin - to bez wątpienia najgorętszy tytuł tej zimy. Serial Netflixa cieszy się ogromną popularnością, co w znacznym stopniu przyczyniło się do zainteresowania grą studia CD Projekt RED. O sukcesie Wiedźmin 3: Dziki Gon świadczą imponujące liczby.",
+            "category": "Gry",
+            "date": "2021-01-16",
+            "author": "Paweł Czeczot",
+            "urlToImage": "https://mlpnk72yciwc.i.optimole.com/w:600/h:338/q:auto/https://www.bleedingcool.com/wp-content/uploads/2017/12/Witcher-3-colorful.jpg",
+            "contents": "Według serwisu SteamSpy, na Steamie sprzedało się już 8,18 mln egzemplarzy gry Wiedźmin 3: Dziki Gon. Na szczególną uwagę zasługuje jednak fakt, że czwarta cześć kopii hitu od CD Projekt RED trafiła do graczy w ciągu ostatnich 6 miesięcy. W tak szybkim tempie gra nie sprzedawała się nawet zaraz po swojej premierze. Skąd więc tak nagły wzrost popularności? Jeżeli wśród naszych czytelników jest ktoś, kto uważa, że na sprzedaż dwóch milionów egzemplarzy Wiedźmina 3 na Steamie w ciągu ostatniego półrocza miały wpływ obniżki, to zapewniamy - jest w błędzie. Pierwsza akcja promocyjna w 2019 roku miała miejsce w lutym. Wówczas, tytuł od CD Projekt RED można było nabyć już za 11,99 dolara (około 45 złotych). Atrakcyjna oferta nie przyczyniła się do wzrostu zainteresowania produkcją. Podobne sytuacje miały miejsce jeszcze kilka razy w ciągu minionego roku. Jeśli nie obniżki, to co? Zdecydowana większość miłośników Geralta z Rivii nie ma wątpliwości, że to serial produkcji Netflix dał popularnej na całym świecie grze Wiedźmin 3: Dziki Gon drugie życie. Premiera głośnej produkcji, a także cały marketing z nią związany przypomniał graczom o istnieniu tego niekwestionowanego hitu od polskiego producenta. O związku serialu z grą świadczyć może fakt, że wzrost sprzedaży tytułu od CD Projekt RED nastąpił niemal w tym samym czasie, co początek kampanii promocyjnej produkcji Netflixa.Skok popularności gry dało się zauważyć na początku lipca 2019 roku, kiedy to fani otrzymali pierwsze zdjęcia z planu serialu. Tydzień po ich publikacji, tytuł od CD Projekt RED miał już pół miliona więcej właścicieli. Niemalże identyczna sytuacja miała miejsce po 20 grudnia minionego roku, czyli zaraz po premierze produkcji na Netflix. 31 października Wiedźmin 3: Dziki Gon miał 6,84 mln sprzedanych kopii na Steamie, siedem tygodni później - o prawie milion więcej.",
+            "comments":
+            [
+                {
+                    "nick": "Kujaw",
+                    "text": "wszyscy zgininiemy",
+                    "commentDate": "2021-01-17 15:37"
+                },
+    
+                {
+                    "nick": "Agrendus",
+                    "text": "Hahahaha chyba Ty, bo ja mam sie dobrze",
+                    "commentDate": "2021-01-17 16:38"
+                },
+    
+                {
+                    "nick": "Grzebek",
+                    "text": "To wszystko wina rządu",
+                    "commentDate": "2021-01-17 18:31"
+                },
+    
+                {
+                    "nick": "Tabaluga",
+                    "text": "Mam nadzieje, ze skonczy sie ten lockdown",
+                    "commentDate": "2021-01-17 21:28"
+                }
+    
+            ],
+    
+            "views": 5652,
+            "keywords":["gra","wiedzmin","cdpr","zyski"]
+    
+        }                              
+    }
+    
+    }
+    
+    
+    

@@ -1,0 +1,28 @@
+
+{
+    "about":{
+    
+       
+    
+            "name": "Paweł Czeczot",
+            "description": "Cześć, nazywam się Paweł i jestem studentem Informatyki 2 Stopnia na <b>Uniwersytecie w Białymstoku</b>",
+            "urlToImage": "https://bi.im-g.pl/im/62/75/19/z26694242IH,Epidemia-koronawirusa.jpg",
+            "contents": "Jak podało Ministerstwo Zdrowia, w ciągu doby przybyło 6055 zakażenia koronawirusem. Są to przypadki z województw:  wielkopolskiego (826), mazowieckiego (816), kujawsko-pomorskiego (658), pomorskiego (603), śląskiego (408), łódzkiego (351), zachodniopomorskiego (324), lubelskiego (318), dolnośląskiego (302), warmińsko-mazurskiego (287), lubuskiego (247), małopolskiego (225), podkarpackiego (177), świętokrzyskiego (125), podlaskiego (121), opolskiego (99). 6055 zakażeń COVID-19. Zmarły 142 osoby  166 zakażeń to dane bez wskazania adresu, które zostaną uzupełnione przez inspekcję sanitarną - podaje resort. Z powodu COVID-19 zmarło 37 osób, natomiast z powodu współistnienia COVID-19 z innymi schorzeniami zmarło 105 osób. Liczba zakażonych koronawirusem: 1 435 582/33 355 (wszystkie pozytywne przypadki/w tym osoby zmarłe) - informuje MZ.",
+    
+            "contact":
+            [
+                {
+                    "phone": "Kujaw",
+                    "email": "wszyscy zgininiemy"
+                }
+
+            ]
+    
+
+         
+    }
+    
+    }
+    
+    
+    
