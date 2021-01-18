@@ -104,7 +104,7 @@
             "category": "Zdrowie",
             "date": "2021-01-15 12:24",
             "author": "Paweł Czeczot",
-            "urlToImage": "https://galeria.bankier.pl/p/f/b/3f779649bed23b-948-568-0-0-948-568.jpg",
+            "urlToImage": "https://s1.tvp.pl/images2/1/2/0/uid_120e3b4f6e61cc61fbbab5231644e75f1610394853176_width_1280_play_0_pos_0_gs_0_height_720_sondaz-ws-afery-szczepionkowej-fot-forumandrzej-hulimka-papjakub-kaczmarczyk.jpg",
             "contents": "Ankietowanym zadano pytanie, czy znane osoby życia publicznego w Polsce  powinny być uprzywilejowane w dostępie do usług medycznych, w tym szczepień . Zdaniem zdecydowanej większości, 82,7 proc. badanych, nie powinno dochodzić do takich wyjątków jak szczepienia poza kolejnością. Za uprzywilejowanym traktowaniem celebrytów i znanych osób opowiada się 9,3 proc. ankietowanych, a 8 proc. Polaków nie ma w tej sprawie zdania – wynika z przeprowadzonego na zlecenie  Wiadomości  TVP badania. Afera wybuchła w ostatnich dniach 2020 roku, wraz z informacją o zaszczepieniu aktorki Krystyny Jandy i byłego premiera, europosła KO Leszka Millera. W poniedziałek na konferencji prasowej minister zdrowia Adam Niedzielski poinformował, że kontrola w WUM wykazała, że z 450 dawek szczepionki, przeznaczonych dla personelu medycznego tej placówki, blisko 200 otrzymały osoby spoza WUM. Jak dodał, odpowiedzialność za nieprawidłowości ponoszą władze uczelni, z którymi  nie widzi możliwości współpracy . Minister zaznaczył ponadto, że oczekuje dymisji rektora WUM prof. Zbigniewa Gacionga.",
             "comments":
             [
@@ -135,6 +135,92 @@
             ],
     
             "views": 15652,
+            "keywords":["covid","szczepienia","zdrowie","ankieta"]
+    
+        },
+        
+        { 
+    
+            "id": 4,
+            "title": "Smartfony z 5G za mniej niż 150 USD jeszcze w tym roku, tak twierdzi Huawei",
+            "description": "Według przewidywań analityków w tym roku na rynek może trafić około 190 milionów smartfonów z obsługą 5G. Będzie to zaledwie 14% z ponad 1,4 miliarda urządzeń, które mają znaleźć swoich nabywców w 2020 roku. Kolejne lata powinny być jednak znacznie lepsze, przynajmniej według szefa działu 5G w Huawei.",
+            "category": "Technologia",
+            "date": "2021-01-13 18:54",
+            "author": "Paweł Czeczot",
+            "urlToImage": "https://www.mobigyaan.com/wp-content/uploads/2019/12/Vivo-5G-Phone.png",
+            "contents": "Według przewidywań analityków w tym roku na rynek może trafić około 190 milionów smartfonów z obsługą 5G. Będzie to zaledwie 14% z ponad 1,4 miliarda urządzeń, które mają znaleźć swoich nabywców w 2020 roku. Kolejne lata powinny być jednak znacznie lepsze, przynajmniej według szefa działu 5G w Huawei. 5G pod koniec roku trafi nawet do tanich smartfonów 5G to bardzo obiecująca technologia, która może być głównym argumentem do zmiany smartfona w przyszłości. Obecnie to jeszcze co prawda bardziej ciekawostka, bo póki co w Polsce swoje komercyjne nadajniki uruchomiła tylko jedna sieć i tylko w jednym mieście, ale to będzie szybko się zmieniać. Na całym świecie operatorzy inwestują w 5G bo to korzyść również dla nich. Sieć w nowym standardzie ma znacznie większą pojemność i pozwala dostarczać usługi lepszej jakości większej liczbie klientów. Kluczową kwestią będzie teraz dostarczenie odpowiednich urządzeń, które nie będą przy tym za drogie. I wygląda na to, że nastąpi to szybciej niż wszyscy mogliśmy się spodziewać. IDC przewiduje, że w tym roku na rynek trafi nawet 190 milionów smartfonów z modemami 5G. To znacząco więcej niż w przypadku standardu 4G, który w pierwszych latach był raczej ciekawostką niż realną alternatywą. W tej chwili łączność 5G oferują tylko najdroższe urządzenia z takimi układami SoC jak Snapdragon 865, ale szef działu 5G w Huawei zapowiada, że jego firma dostarczy znacznie tańszą platformę, która może trafić pod koniec roku do smartfonów kosztujących nawet mniej niż 150 USD.",
+            "comments":
+            [
+                {
+                    "nick": "Kujaw",
+                    "text": "wszyscy zgininiemy",
+                    "commentDate": "2021-01-17 15:37"
+                },
+    
+                {
+                    "nick": "Agrendus",
+                    "text": "Hahahaha chyba Ty, bo ja mam sie dobrze",
+                    "commentDate": "2021-01-17 16:38"
+                },
+    
+                {
+                    "nick": "Grzebek",
+                    "text": "To wszystko wina rządu",
+                    "commentDate": "2021-01-17 18:31"
+                },
+    
+                {
+                    "nick": "Tabaluga",
+                    "text": "Mam nadzieje, ze skonczy sie ten lockdown",
+                    "commentDate": "2021-01-17 21:28"
+                }
+    
+            ],
+    
+            "views": 842,
+            "keywords":["covid","szczepienia","zdrowie","ankieta"]
+    
+        },
+        
+        { 
+    
+            "id": 5,
+            "title": "AI pomaga zmierzyć się z jednym z największych nierozwiązanych problemów fizycznych.",
+            "description": "Po raz pierwszy w historii, naukowcy ze szwajcarskiej politechniki ETH w Zurychu, z powodzeniem zautomatyzowali proces modelowania turbulencji w płynach przez połączenie mechaniki płynów ze sztuczną inteligencją.",
+            "category": "Zdrowie",
+            "date": "2021-01-12 14:12",
+            "author": "Paweł Czeczot",
+            "urlToImage": "https://mlodytechnik.pl/i/images/1/8/6/Y3c9MTE3MCZjaD01MTM=_src_21186-3-Turbulencje.jpg",
+            "contents": "Ich podejście opiera się na połączeniu algorytmów wzmocnionego uczenia maszynowego z symulacjami przepływów turbulentnych przeprowadzonymi w superkomputerze Piz Daint ze Szwajcarskiego Narodowego Centrum Superkomputerowego. Według opisu badań, który ukazał się niedawno w periodyku  Nature Machine Intelligence , naukowcy opracowali nowe algorytmy wzmocnionego uczenia maszynowego (RL) i połączyli je z fizycznym podejściem do modelowania turbulencji. Dwadzieścia pięć lat temu, byliśmy pionierami w łączeniu Al i turbulentnych przepływów , relacjonuje w publikacji Petros Koumoutsakos, profesor w Laboratorium Nauk Obliczeniowych i Inżynierii w ETH w Zurychu. Ćwierć wieku temu komputery nie były wystarczająco wydajne, aby przetestować te pomysły.  Ostatnio zdaliśmy sobie sprawę, że popularne sieci neuronowe nie nadają się do rozwiązywania takich problemów, ponieważ model aktywnie wpływa w nich na strumienie danych, które ma uzupełniać , mówi badacz. Uczeni musieli uciec się do innego podejścia do nauki maszynowej, w którym algorytm uczy się reagować na wzorce w obszarze przepływów turbulentnych. Modelowanie i symulacja przepływów turbulentnych ma kluczowe znaczenie w wielu dziedzinach nauki i techniki, od projektowania samochodów po implanty zastawek sercowych; od prognozowania pogody po wyjaśnianie procesów narodzin galaktyk. Fizyk Richard Feynman zaliczył zjawisko turbulencji płynów do najważniejszych nierozwiązanych problemów w fizyce klasycznej. Pozostaje on wciąż polem intensywnych badań dla inżynierów, naukowców i matematyków, którzy komputerowo modelują turbulencje płynów i przeprowadzają symulacje przepływów od ponad sześćdziesięciu lat.",
+            "comments":
+            [
+                {
+                    "nick": "Kujaw",
+                    "text": "wszyscy zgininiemy",
+                    "commentDate": "2021-01-17 15:37"
+                },
+    
+                {
+                    "nick": "Agrendus",
+                    "text": "Hahahaha chyba Ty, bo ja mam sie dobrze",
+                    "commentDate": "2021-01-17 16:38"
+                },
+    
+                {
+                    "nick": "Grzebek",
+                    "text": "To wszystko wina rządu",
+                    "commentDate": "2021-01-17 18:31"
+                },
+    
+                {
+                    "nick": "Tabaluga",
+                    "text": "Mam nadzieje, ze skonczy sie ten lockdown",
+                    "commentDate": "2021-01-17 21:28"
+                }
+    
+            ],
+    
+            "views": 1632,
             "keywords":["covid","szczepienia","zdrowie","ankieta"]
     
         }   
