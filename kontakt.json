@@ -1,27 +1,11 @@
 
-{
-    "about":{
-    
-       
-    
+   [
+        {
             "name": "Paweł Czeczot",
             "description": "Cześć, nazywam się Paweł i jestem studentem Informatyki 2 Stopnia na <b>Uniwersytecie w Białymstoku</b>",
             "urlToImage": "https://i.imgur.com/fMGFMgH.jpg",
-
-            "contact":
-            [
-                {
-                    "phone": "500006265",
-                    "email": "pawelczeczot@gmail.com"
-                }
-
-            ]
+            "phone": "500006265",
+            "email": "pawelczeczot@gmail.com"
+        }
     
-
-         
-    }
-    
-    }
-    
-    
-    
+    ]
