@@ -178,7 +178,7 @@
             ],
     
             "views": 842,
-            "keywords":["covid","szczepienia","zdrowie","ankieta"]
+            "keywords":["technologia","smartfony","sieć","5G"]
     
         },
         
@@ -187,8 +187,8 @@
             "id": 5,
             "title": "AI pomaga zmierzyć się z jednym z największych nierozwiązanych problemów fizycznych.",
             "description": "Po raz pierwszy w historii, naukowcy ze szwajcarskiej politechniki ETH w Zurychu, z powodzeniem zautomatyzowali proces modelowania turbulencji w płynach przez połączenie mechaniki płynów ze sztuczną inteligencją.",
-            "category": "Zdrowie",
-            "date": "2021-01-12 14:12",
+            "category": "Informatyka",
+            "date": "2021-01-10 12:11",
             "author": "Paweł Czeczot",
             "urlToImage": "https://mlodytechnik.pl/i/images/1/8/6/Y3c9MTE3MCZjaD01MTM=_src_21186-3-Turbulencje.jpg",
             "contents": "Ich podejście opiera się na połączeniu algorytmów wzmocnionego uczenia maszynowego z symulacjami przepływów turbulentnych przeprowadzonymi w superkomputerze Piz Daint ze Szwajcarskiego Narodowego Centrum Superkomputerowego. Według opisu badań, który ukazał się niedawno w periodyku  Nature Machine Intelligence , naukowcy opracowali nowe algorytmy wzmocnionego uczenia maszynowego (RL) i połączyli je z fizycznym podejściem do modelowania turbulencji. Dwadzieścia pięć lat temu, byliśmy pionierami w łączeniu Al i turbulentnych przepływów , relacjonuje w publikacji Petros Koumoutsakos, profesor w Laboratorium Nauk Obliczeniowych i Inżynierii w ETH w Zurychu. Ćwierć wieku temu komputery nie były wystarczająco wydajne, aby przetestować te pomysły.  Ostatnio zdaliśmy sobie sprawę, że popularne sieci neuronowe nie nadają się do rozwiązywania takich problemów, ponieważ model aktywnie wpływa w nich na strumienie danych, które ma uzupełniać , mówi badacz. Uczeni musieli uciec się do innego podejścia do nauki maszynowej, w którym algorytm uczy się reagować na wzorce w obszarze przepływów turbulentnych. Modelowanie i symulacja przepływów turbulentnych ma kluczowe znaczenie w wielu dziedzinach nauki i techniki, od projektowania samochodów po implanty zastawek sercowych; od prognozowania pogody po wyjaśnianie procesów narodzin galaktyk. Fizyk Richard Feynman zaliczył zjawisko turbulencji płynów do najważniejszych nierozwiązanych problemów w fizyce klasycznej. Pozostaje on wciąż polem intensywnych badań dla inżynierów, naukowców i matematyków, którzy komputerowo modelują turbulencje płynów i przeprowadzają symulacje przepływów od ponad sześćdziesięciu lat.",
@@ -221,7 +221,50 @@
             ],
     
             "views": 1632,
-            "keywords":["covid","szczepienia","zdrowie","ankieta"]
+            "keywords":["IT","Technologia","Informatyka","SI"]
+    
+        },
+        
+        { 
+    
+            "id": 6,
+            "title": "Z Polski zniknęło 400 tysięcy Aut. Co się z nimi stało?",
+            "description": "W ubiegłym roku na polskich drogach przybyło w sumie niespełna 775 tys. pojazdów. Takie dane płyną z naszej analizy dotyczącej rejestracji samochodów nowych, używanych i wycofanych z eksploatacji.",
+            "category": "Motoryzacja",
+            "date": "2021-01-10 13:32",
+            "author": "Paweł Czeczot",
+            "urlToImage": "https://i.iplsc.com/nie-wszystkie-z-wyrejestrowanych-pojazdow-skonczyly-na-szrot/000AZL9PR8VOSYGC-C122-F4.jpg",
+            "contents": "Przypomnijmy, że w ubiegłym roku import samochodów osobowych (o DMC do 3,5 tony) zamknął się wynikiem 848 154 pojazdów. W tym samym czasie w Polsce zarejestrowano też po raz pierwszy 428 377 fabrycznie nowych samochodów osobowych. W sumie daje to wynik 1 276 531 aut. Ile pojazdów zakończyło w tym czasie swoją drogową karierę? Jak poinformował Interię wydział prasowy Kancelarii Prezesa Rady Ministrów (przy rekonstrukcji rządu przejęła nadzór nad kompetencjami Ministerstwa Cyfryzacji) w ubiegłym roku z CEPiKu  wykreślono  dokładnie 501 542 pojazdów. Słowo  wykreślono  nie przez przypadek umieściliśmy w cudzysłowie. Wbrew pozorom w państwowej ewidencji nic nie ginie, niezależnie od ich losów figurują w niej wszystkie zarejestrowane w kraju pojazdy, tyle że ich status zmienia się na  wyrejestrowany . W przypadku aut osobowych status  wyrejestrowany  traktować można wymiennie ze słowem  zniszczony . W Polsce, mimo wieloletnich obietnic Ministerstwa Infrastruktury, do dziś nie można przecież czasowo wycofać z ruchu samochodu osobowego. Jeśli więc przy danym aucie widnieje słowo  wyrejestrowany  oznacza to, że zostało ono (fizycznie) skasowane lub - przynajmniej w teorii - opuściło terytorium RP. Najwięcej z wyrejestrowanych aut - dokładnie 444 837 sztuk - skończyło swój żywot w stacjach demontażu pojazdów. Aż 132 219 pojazdów z tej grupy przekazano do złomowania  z urzędu . Najczęściej były to więc pojazdy/wraki usunięte z ulic na parkingi depozytowe i z czasem przejęte na własność gminy. Oto najczęściej złomowane auta. Zgadniecie, który rocznik?CIEKAWOSTKI OTO NAJCZĘŚCIEJ ZŁOMOWANE AUTA. ZGADNIECIE, KTÓRY ROCZNIK? Blisko 142 tys. aut  zniknęło  z CEPiKu z uwagi na ich wywóz zagranicę. Duża część z nich to auta fabrycznie nowe wywiezione z Polski w ramach tzw. reeksportu. Inne to m.in. polski wkład w międzynarodowy handel klasykami. Ponad 9,5 tys. aut z tej grupy wyrejestrowano na wniosek dotychczasowego właściciela, który zgłosił sprzedaż za granicę. W tej grupie znalazły się najpewniej liczne pojazdy formalnie zakupione np. przez Ukraińców czy Białorusinów, które niekoniecznie musiały finalnie opuścić terytorium naszego kraju... 8093 pojazdy wyrejestrowane zostały w związku z ich kradzieżą. To wynik lepszy niż w roku 2019, gdy z tej samej przyczyny centralna baza  skurczyła się  o 8392 pojazdów. Trzeba jednak wiedzieć, że nie jest to wiarygodna miara poziomu przestępczości samochodowej. Często postępowania dotyczące kradzieży toczą się przecież długimi miesiącami, więc rozbieżności między wyrejestrowaniem pojazdu z powodu kradzieży, a datą jej dokonana mogą być spore. Dużą grupę pojazdów wyrejestrowanych - 2058 sztuk - stanowią też auta zniszczone za granicą. W tej grupie duży udział mają najpewniej samochody ciężarowe pracujące w transporcie międzynarodowym, chętnie rejestrowane w Polsce przez duże przedsiębiorstwa logistyczne.",
+            "comments":
+            [
+                {
+                    "nick": "Kujaw",
+                    "text": "wszyscy zgininiemy",
+                    "commentDate": "2021-01-17 15:37"
+                },
+    
+                {
+                    "nick": "Agrendus",
+                    "text": "Hahahaha chyba Ty, bo ja mam sie dobrze",
+                    "commentDate": "2021-01-17 16:38"
+                },
+    
+                {
+                    "nick": "Grzebek",
+                    "text": "To wszystko wina rządu",
+                    "commentDate": "2021-01-17 18:31"
+                },
+    
+                {
+                    "nick": "Tabaluga",
+                    "text": "Mam nadzieje, ze skonczy sie ten lockdown",
+                    "commentDate": "2021-01-17 21:28"
+                }
+    
+            ],
+    
+            "views": 12921,
+            "keywords":["Motoryzacja","Samochody","Przekręt","Oszustwo"]
     
         }   
         
