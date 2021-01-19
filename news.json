@@ -95,7 +95,24 @@
                     "text": "Mam nadzieje, ze skonczy sie ten lockdown",
                     "commentDate": "2021-01-17 21:28",
                     "urlAvatar": "https://ionicframework.com/docs/demos/api/list/avatar-luke.png"
+                },
+
+                {
+                    "nick": "Yennefer",
+                    "text": "Gra najlepsza bo ja tam jestem!",
+                    "commentDate": "2021-01-17 23:31",
+                    "urlAvatar": "https://d13uy3bdhwkuhk.cloudfront.net/avatar/362219-6f0ec7a6ad1c05a56f7e90e07434da21.png"
+                },
+
+                {
+                    "nick": "Vesemir",
+                    "text": "Szkoda ze Vesemir zginał, jedna z najlepszych postaci",
+                    "commentDate": "2021-01-18 11:33",
+                    "urlAvatar": "https://avatarfiles.alphacoders.com/148/thumb-1920-148843.jpg"
                 }
+
+
+
     
             ],
     
