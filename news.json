@@ -134,31 +134,37 @@
             "comments":
             [
                 {
-                    "nick": "Kujaw",
-                    "text": "wszyscy zgininiemy",
+                    "nick": "AntySzczep",
+                    "text": "wszyscy zgininiemy, zaczipują nas !",
                     "commentDate": "2021-01-17 15:37",
                     "urlAvatar": "https://avatarfiles.alphacoders.com/128/thumb-1920-128776.jpg"
                 },
     
                 {
                     "nick": "Agrendus",
-                    "text": "Hahahaha chyba Ty, bo ja mam sie dobrze",
+                    "text": "Ludzie uważajcie, te szczepionki powodują mutacje!",
                     "commentDate": "2021-01-17 16:38",
                     "urlAvatar": "https://avatarfiles.alphacoders.com/840/thumb-1920-84098.jpg"
                 },
     
                 {
                     "nick": "Grzebek",
-                    "text": "To wszystko wina rządu",
+                    "text": "Głupi rząd, nie dajmy się zaszczepić!",
                     "commentDate": "2021-01-17 18:31",
                     "urlAvatar": "https://ionicframework.com/docs/demos/api/list/avatar-rey.png"
                 },
     
                 {
                     "nick": "Tabaluga",
-                    "text": "Mam nadzieje, ze skonczy sie ten lockdown",
+                    "text": "Moim zdaniem, szczepionka to jedyny ratunek przed covidem",
                     "commentDate": "2021-01-17 21:28",
                     "urlAvatar": "https://ionicframework.com/docs/demos/api/list/avatar-luke.png"
+                },
+                {
+                    "nick": "Andzia39",
+                    "text": "Lecz sie czlowieku!, otwórz oczy, oni chcą sie nas po cichu pozbyć!",
+                    "commentDate": "2021-01-17 23:18",
+                    "urlAvatar": "https://image.freepik.com/darmowe-wektory/okragle-ramki-i-slodkie-dziewczyny-anime-wink-wypowiedzi-wyrazenie-z-blond-dlugich-fryzur_18591-18105.jpg"
                 }
     
             ],
