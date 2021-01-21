@@ -20,28 +20,36 @@
                     "nick": "Kujaw",
                     "text": "wszyscy zgininiemy",
                     "commentDate": "2021-01-17 15:37",
-                    "urlAvatar": "https://images-na.ssl-images-amazon.com/images/I/61TGfufxpGL._AC_SL1181_.jpg"
+                    "urlAvatar": "https://images-na.ssl-images-amazon.com/images/I/61TGfufxpGL._AC_SL1181_.jpg",
+                    "plus": 27,
+                    "minus": 23
                 },
     
                 {
                     "nick": "StockMan",
                     "text": "Hahahaha chyba Ty, bo ja mam sie dobrze",
                     "commentDate": "2021-01-17 16:38",
-                    "urlAvatar": "https://www.wykop.pl/cdn/c3201142/comment_nmJ6VOAqVrPo1FuLWg9kMvVnGoSqlapJ.jpg"
+                    "urlAvatar": "https://www.wykop.pl/cdn/c3201142/comment_nmJ6VOAqVrPo1FuLWg9kMvVnGoSqlapJ.jpg",
+                    "plus": 23,
+                    "minus": 11
                 },
     
                 {
                     "nick": "Stachu",
                     "text": "To wszystko wina rządu",
                     "commentDate": "2021-01-17 18:31",
-                    "urlAvatar": "https://media.cdnandroid.com/62/66/d4/d0/imagen-stachu-jones-soundboard-0big.jpg"
+                    "urlAvatar": "https://media.cdnandroid.com/62/66/d4/d0/imagen-stachu-jones-soundboard-0big.jpg",
+                    "plus": 86,
+                    "minus": 32
                 },
     
                 {
                     "nick": "Laluś",
                     "text": " lubie  ogółem, spedzac czas na swiezym powietrzu w lesie, i całe te bez maski",
                     "commentDate": "2021-01-17 21:28",
-                    "urlAvatar": "https://www.wykop.pl/cdn/c3201142/comment_3QUGQIn4jdfAhEsypAcpPHEqf4JrnPsd.jpg"
+                    "urlAvatar": "https://www.wykop.pl/cdn/c3201142/comment_3QUGQIn4jdfAhEsypAcpPHEqf4JrnPsd.jpg",
+                    "plus": 133,
+                    "minus": 3
                 }
     
             ],
@@ -74,42 +82,54 @@
                     "nick": "Janusz",
                     "text": "Najlepsza gra w jaką kiedykolwiek grałem, polecam serdecznie, lepszego RPG nie znajdziecie",
                     "commentDate": "2021-01-17 15:37",
-                    "urlAvatar": "https://www.sweetdecor.pl/oplatek-na-tort-nosacz-janusz-00584a-21-cm.1.jpg"
+                    "urlAvatar": "https://www.sweetdecor.pl/oplatek-na-tort-nosacz-janusz-00584a-21-cm.1.jpg",
+                    "plus": 643,
+                    "minus": 83
                 },
     
                 {
                     "nick": "Turtex",
                     "text": "Wiedzmin 3 to legenda, nie to co Cyberpunk2077 - totalna porazka",
                     "commentDate": "2021-01-17 16:38",
-                    "urlAvatar": "https://avatarfiles.alphacoders.com/840/thumb-1920-84098.jpg"
+                    "urlAvatar": "https://avatarfiles.alphacoders.com/840/thumb-1920-84098.jpg",
+                    "plus": 363,
+                    "minus": 124
                 },
     
                 {
                     "nick": "Mirek",
                     "text": "Szczerze mówiąc to wolę Gothica niż wiedzmina, moze mnie zhejtujecie",
                     "commentDate": "2021-01-17 18:31",
-                    "urlAvatar": "https://i.imgur.com/4jW90Ps.jpg"
+                    "urlAvatar": "https://i.imgur.com/4jW90Ps.jpg",
+                    "plus": 114,
+                    "minus": 522
                 },
     
                 {
                     "nick": "EA vs CDPR",
                     "text": "Kupilem wieska GOTY na promce za 45zl , znajdzcie mi inna firme która w takiej cenie zaoferuje wam gre i 2 dodatki na 300h gry. Dla przykładu takie EA games za 8h fabuły życzy sobie 200zl xD smiech na sali",
                     "commentDate": "2021-01-17 21:28",
-                    "urlAvatar": "https://static.giantbomb.com/uploads/original/0/39/2167589-eagoldenpoowcia.png"
+                    "urlAvatar": "https://static.giantbomb.com/uploads/original/0/39/2167589-eagoldenpoowcia.png",
+                    "plus": 527,
+                    "minus": 4
                 },
 
                 {
                     "nick": "Yennefer",
                     "text": "Gra najlepsza bo ja tam jestem!",
                     "commentDate": "2021-01-17 23:31",
-                    "urlAvatar": "https://d13uy3bdhwkuhk.cloudfront.net/avatar/362219-6f0ec7a6ad1c05a56f7e90e07434da21.png"
+                    "urlAvatar": "https://d13uy3bdhwkuhk.cloudfront.net/avatar/362219-6f0ec7a6ad1c05a56f7e90e07434da21.png",
+                    "plus": 532,
+                    "minus": 76
                 },
 
                 {
                     "nick": "Vesemir",
                     "text": "Szkoda ze Vesemir zginał, jedna z najlepszych postaci",
                     "commentDate": "2021-01-18 11:33",
-                    "urlAvatar": "https://avatarfiles.alphacoders.com/148/thumb-1920-148843.jpg"
+                    "urlAvatar": "https://avatarfiles.alphacoders.com/148/thumb-1920-148843.jpg",
+                    "plus": 236,
+                    "minus": 36
                 }
 
 
@@ -139,34 +159,44 @@
                     "nick": "AntySzczep",
                     "text": "wszyscy zgininiemy, zaczipują nas !",
                     "commentDate": "2021-01-17 15:37",
-                    "urlAvatar": "https://avatarfiles.alphacoders.com/128/thumb-1920-128776.jpg"
+                    "urlAvatar": "https://avatarfiles.alphacoders.com/128/thumb-1920-128776.jpg",
+                    "plus": 125,
+                    "minus": 363
                 },
     
                 {
                     "nick": "Agrendus",
                     "text": "Ludzie uważajcie, te szczepionki powodują mutacje!",
                     "commentDate": "2021-01-17 16:38",
-                    "urlAvatar": "https://avatarfiles.alphacoders.com/840/thumb-1920-84098.jpg"
+                    "urlAvatar": "https://avatarfiles.alphacoders.com/840/thumb-1920-84098.jpg",
+                    "plus": 184,
+                    "minus": 473
                 },
     
                 {
                     "nick": "Grzebek",
                     "text": "Głupi rząd, nie dajmy się zaszczepić!",
                     "commentDate": "2021-01-17 18:31",
-                    "urlAvatar": "https://ionicframework.com/docs/demos/api/list/avatar-rey.png"
+                    "urlAvatar": "https://ionicframework.com/docs/demos/api/list/avatar-rey.png",
+                    "plus": 680,
+                    "minus": 212
                 },
     
                 {
                     "nick": "Tabaluga",
                     "text": "Moim zdaniem, szczepionka to jedyny ratunek przed covidem",
                     "commentDate": "2021-01-17 21:28",
-                    "urlAvatar": "https://ionicframework.com/docs/demos/api/list/avatar-luke.png"
+                    "urlAvatar": "https://ionicframework.com/docs/demos/api/list/avatar-luke.png",
+                    "plus": 206,
+                    "minus": 837
                 },
                 {
                     "nick": "Andzia39",
                     "text": "Lecz sie czlowieku!, otwórz oczy, oni chcą sie nas po cichu pozbyć!",
                     "commentDate": "2021-01-17 23:18",
-                    "urlAvatar": "https://image.freepik.com/darmowe-wektory/okragle-ramki-i-slodkie-dziewczyny-anime-wink-wypowiedzi-wyrazenie-z-blond-dlugich-fryzur_18591-18105.jpg"
+                    "urlAvatar": "https://image.freepik.com/darmowe-wektory/okragle-ramki-i-slodkie-dziewczyny-anime-wink-wypowiedzi-wyrazenie-z-blond-dlugich-fryzur_18591-18105.jpg",
+                    "plus": 245,
+                    "minus": 2456
                 }
     
             ],
@@ -193,28 +223,36 @@
                     "nick": "Czempion",
                     "text": "Ja tam uzywam swojej nokii 3310 i jestem zadowolony",
                     "commentDate": "2021-01-17 15:37",
-                    "urlAvatar": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/a/9f/a9facd64-b258-11ea-ac93-5790bd1e6684/5eed006eaaac1.image.jpg"
+                    "urlAvatar": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/a/9f/a9facd64-b258-11ea-ac93-5790bd1e6684/5eed006eaaac1.image.jpg",
+                    "plus": 14,
+                    "minus": 105
                 },
     
                 {
                     "nick": "FolySmoly",
                     "text": "5G zagraza naszemu zdrowiu, taka komórka to cicha bomba w naszej kieszeni! Ludzie obudźcie sie!",
                     "commentDate": "2021-01-17 16:38",
-                    "urlAvatar": "https://www.wykop.pl/cdn/c3201142/comment_KZb0sLDQkOfOkyDW6lpGSRKnLL1leedN.jpg"
+                    "urlAvatar": "https://www.wykop.pl/cdn/c3201142/comment_KZb0sLDQkOfOkyDW6lpGSRKnLL1leedN.jpg",
+                    "plus": 11,
+                    "minus": 179
                 },
     
                 {
                     "nick": "Ula19",
                     "text": "Ja to szukam komórki z dobrym aparatem, zeby robic sweet focie na insta, moze ktos cos poleci?",
                     "commentDate": "2021-01-17 18:31",
-                    "urlAvatar": "https://i.pinimg.com/originals/e7/3c/b1/e73cb17697d0f4260649f12e1f697f3e.jpg"
+                    "urlAvatar": "https://i.pinimg.com/originals/e7/3c/b1/e73cb17697d0f4260649f12e1f697f3e.jpg",
+                    "plus": 134,
+                    "minus": 89
                 },
     
                 {
                     "nick": "Marian",
                     "text": "PROCESOR 8 RDZENI, GRAFIKA  NVIDIA, DYSK 500GB",
                     "commentDate": "2021-01-17 21:28",
-                    "urlAvatar": "https://teatrcapitol.pl/wp-content/uploads/2015/09/Jaro-K-380x380.jpg"
+                    "urlAvatar": "https://teatrcapitol.pl/wp-content/uploads/2015/09/Jaro-K-380x380.jpg",
+                    "plus": 57,
+                    "minus": 212
                 }
     
             ],
@@ -241,28 +279,36 @@
                     "nick": "Niebezpieczny",
                     "text": "No nie wiem. Ja stawiam radykalną tezę, że SI prędzej czy później zniszczy ludzkość. Komputery, a co za tym idzie SI z każdym rokiem dysponują coraz większą mocą obliczeniową. Nie wiem, czy nastąpi to za 20, czy 70 lat, ale przyjdzie taki moment, że ich moc obliczeniowa zbliży się a później zrówna z mocą ludzkiego mózgu. A maszyny mają tą przewagę, że nie muszą odpoczywać, nie mają problemów z koncentracją, więc mogą przeprowadzać obliczenia cały czas",
                     "commentDate": "2021-01-17 15:37",
-                    "urlAvatar": "https://avatarfiles.alphacoders.com/944/94441.png"
+                    "urlAvatar": "https://avatarfiles.alphacoders.com/944/94441.png",
+                    "plus": 59,
+                    "minus": 21
                 },
     
                 {
                     "nick": "resundei49",
                     "text": "To nie jest całkiem nieprawdopodobny scenariusz, ale jego realizacja sprowadza się do tego, czy my taką absolutną SI stworzymy. Ona nie powstanie znikąd, nie wyewoluuje z tych współczesnych niewielkich inteligentnych, ale w gruncie rzeczy prostych algorytmów, nie będzie też efektem zwykłego zwiększania się mocy obliczeniowej.",
                     "commentDate": "2021-01-17 16:38",
-                    "urlAvatar": "https://avatarfiles.alphacoders.com/840/thumb-1920-84098.jpg"
+                    "urlAvatar": "https://avatarfiles.alphacoders.com/840/thumb-1920-84098.jpg",
+                    "plus": 24,
+                    "minus": 3
                 },
     
                 {
                     "nick": "Guslarz",
                     "text": "No podobno 5G to taki skynet",
                     "commentDate": "2021-01-17 18:31",
-                    "urlAvatar": "https://www.india.com/wp-content/uploads/2014/12/arnold-schwarzenneger-copy.jpg"
+                    "urlAvatar": "https://www.india.com/wp-content/uploads/2014/12/arnold-schwarzenneger-copy.jpg",
+                    "plus": 56,
+                    "minus": 24
                 },
     
                 {
                     "nick": "khuhrix",
                     "text": "@Grzebek Słyszałem, że hakuje umysły zachipowanych psów i zmusza je do gryzienia właścicieli #prawdziwahistoria",
                     "commentDate": "2021-01-17 21:28",
-                    "urlAvatar": "https://i.pinimg.com/originals/f2/2f/46/f22f46c83c00075064bf65fbdbe15f1d.jpg"
+                    "urlAvatar": "https://i.pinimg.com/originals/f2/2f/46/f22f46c83c00075064bf65fbdbe15f1d.jpg",
+                    "plus": 31,
+                    "minus": 56
                 }
     
             ],
@@ -289,28 +335,36 @@
                     "nick": "Biznesmen",
                     "text": "Ja niedlugo kupie sobie 15 letniego passata, wreszcie zarobilem po 10 latach pracy w Polsce",
                     "commentDate": "2021-01-17 15:37",
-                    "urlAvatar": "https://www.wykop.pl/cdn/c3201142/comment_bx271yoH9xC8j5jmHYiOoG8XWW3yaZ2I.jpg"
+                    "urlAvatar": "https://www.wykop.pl/cdn/c3201142/comment_bx271yoH9xC8j5jmHYiOoG8XWW3yaZ2I.jpg",
+                    "plus": 1245,
+                    "minus": 107
                 },
     
                 {
                     "nick": "Kubica",
                     "text": "a ja kupie sobie F1",
                     "commentDate": "2021-01-17 16:38",
-                    "urlAvatar": "https://wrc.net.pl/app/uploads/2020/12/robert-kubica-f1.jpg"
+                    "urlAvatar": "https://wrc.net.pl/app/uploads/2020/12/robert-kubica-f1.jpg",
+                    "plus": 26,
+                    "minus": 64
                 },
     
                 {
                     "nick": "Serusnerc",
                     "text": "Znikają bo idą na złom bo ubezpieczenia sa zbyt drogie xd",
                     "commentDate": "2021-01-17 18:31",
-                    "urlAvatar": "https://zycie.news/crops/616a0e/620x0/1/0/2021/01/04/BQZ58FcJHf4qTnTmvazAopnIfBULrJAkfEz1jNwp.jpg"
+                    "urlAvatar": "https://zycie.news/crops/616a0e/620x0/1/0/2021/01/04/BQZ58FcJHf4qTnTmvazAopnIfBULrJAkfEz1jNwp.jpg",
+                    "plus": 226,
+                    "minus": 28
                 },
     
                 {
                     "nick": "kraj zlodzieji",
                     "text": "Ja musialem zezłomowac swój samochód, samochód ze zniszczonym silnikiem, nie ma więc mozliwosci zeby stwarzal niebezpieczenstwo na drodze bo nawet na nią nie wjedzie xD.. a mimo to ubezpieczenie trzeba placic,  bo inaczej olbrzymie kary powyzej 5000zl za zwłoke.Takie cyrki tylko w Polsce",
                     "commentDate": "2021-01-17 21:28",
-                    "urlAvatar": "https://www.sklep-jablotron.pl/userfiles/images/artykuly/zlodziej_jablotron.png"
+                    "urlAvatar": "https://www.sklep-jablotron.pl/userfiles/images/artykuly/zlodziej_jablotron.png",
+                    "plus": 456,
+                    "minus": 74
                 }
     
             ],
@@ -337,28 +391,36 @@
                     "nick": "Kucysław",
                     "text": "Można się zgadzać lub nie, ale należy być też rzetelnym. Po pierwsze człowiek nie był roślinożercą tylko wszystkożercą.Po drugie argument, że gdyby nie dieta roślinna to Pan siedziałby przed telewizorem i drzemał jest dość bałamutna",
                     "commentDate": "2021-01-17 17:37",
-                    "urlAvatar": "https://avatarfiles.alphacoders.com/128/thumb-1920-128776.jpg"
+                    "urlAvatar": "https://avatarfiles.alphacoders.com/128/thumb-1920-128776.jpg",
+                    "plus": 11,
+                    "minus": 231
                 },
     
                 {
                     "nick": "VegePro",
                     "text": "Mam 44 lata i od 28 lat nie jadam mięsa. Zaczęłam wcześnie. Aktywność fizyczną uprawiam z ludźmi jedzącymi mięso - maja takie same osiągi. Na imprezach bawię się z ludźmi jedzącymi mięso - mają taki same poczucie humoru. Mój mąż jada mięso - kocha mnie tak samo jak ja jego. Wokół mnie jest świat w 99% jedzący mięso - jestem jego częścią. Wszystkim wege życzę więcej dystansu do diety i mniej bufonady w tworzeniu alternatywnej rzeczywistości.",
                     "commentDate": "2021-01-17 16:38",
-                    "urlAvatar": "https://avatarfiles.alphacoders.com/840/thumb-1920-84098.jpg"
+                    "urlAvatar": "https://avatarfiles.alphacoders.com/840/thumb-1920-84098.jpg",
+                    "plus": 7,
+                    "minus": 134
                 },
     
                 {
                     "nick": "AntyMieso",
                     "text": "a przepraszam, kły to człowiekowi potrzebne do rozłupywania orzechów?",
                     "commentDate": "2021-01-17 18:31",
-                    "urlAvatar": "https://ionicframework.com/docs/demos/api/list/avatar-rey.png"
+                    "urlAvatar": "https://ionicframework.com/docs/demos/api/list/avatar-rey.png",
+                    "plus": 2,
+                    "minus": 56
                 },
     
                 {
                     "nick": "WTFMan",
                     "text": "Ludzie, wam sie chyba artykuly pomyliły, bo to nie jest artykul wege tylko o C02 xD",
                     "commentDate": "2021-01-17 21:28",
-                    "urlAvatar": "https://ionicframework.com/docs/demos/api/list/avatar-luke.png"
+                    "urlAvatar": "https://ionicframework.com/docs/demos/api/list/avatar-luke.png",
+                    "plus": 146,
+                    "minus": 21
                 }
     
             ],
@@ -387,42 +449,54 @@
                     "nick": "Xandix1976",
                     "text": "lol. z tego co ja wiem to Redzi poprosili Sony o wycofanie gry..",
                     "commentDate": "2021-01-17 15:37",
-                    "urlAvatar": "https://i.imgur.com/VKXouC4.jpg"
+                    "urlAvatar": "https://i.imgur.com/VKXouC4.jpg",
+                    "plus": 46,
+                    "minus": 21
                 },
     
                 {
                     "nick": "Mekur996",
                     "text": "Tak to jest jak myśli się tylko o kasie a cp miał wyjść when it's ready",
                     "commentDate": "2021-01-17 16:38",
-                    "urlAvatar": "https://i.imgur.com/KO6w2dw.jpg"
+                    "urlAvatar": "https://i.imgur.com/KO6w2dw.jpg",
+                    "plus": 62,
+                    "minus": 456
                 },
     
                 {
                     "nick": "Meffi98x",
                     "text": "W tym całym zamieszaniu zapomina się o innych wielkich ofiarach procederu CD Project Red. Neo, Johnny Mnemonic, John Wick, czyli Keanu Reeves we własnej osobie. Facet, który dał twarz temu, jak się okazało, badziewiu. Oczywiście zgarnął za to swoją niemałą taryfę do miecha, ale raczej nie spodziewał się, że będzie reklamował taki szajs. Podejrzewam, że stosunki między agentami Reeves'a i CDPR stały się mocno napięte.",
                     "commentDate": "2021-01-17 18:31",
-                    "urlAvatar": "https://i.imgur.com/zBYSgOe.jpg"
+                    "urlAvatar": "https://i.imgur.com/zBYSgOe.jpg",
+                    "plus": 47,
+                    "minus": 156
                 },
     
                 {
                     "nick": "Serioc224",
                     "text": "Badziew? Grales w to w ogole? Klimatu tez pewnie nie kumasz...",
                     "commentDate": "2021-01-17 21:28",
-                    "urlAvatar": "https://i.imgur.com/Miiz7ov.jpg"
+                    "urlAvatar": "https://i.imgur.com/Miiz7ov.jpg",
+                    "plus": 242,
+                    "minus": 43
                 },
 
                 {
                     "nick": "Mysław",
                     "text": "Każda polska firma musi mieć w swoim DNA odrobinę januszostwa:)",
                     "commentDate": "2021-01-17 21:28",
-                    "urlAvatar": "https://i.imgur.com/Kql7cQn.png"
+                    "urlAvatar": "https://i.imgur.com/Kql7cQn.png",
+                    "plus": 113,
+                    "minus": 258
                 },
 
                 {
                     "nick": "grzegi",
                     "text": "Taa, w porozumieniu z Sony... Znając życie Sony postawiło CDPR pod ścianą, że wywalają grę ze sklepu, bo jest zbugowana, a, że CDPR łatki będzie miało za 2-3 miesiące to do tego czasu nie będzie sprzedaży. Proste.",
                     "commentDate": "2021-01-17 21:28",
-                    "urlAvatar": "https://i.imgur.com/df95t5x.jpg"
+                    "urlAvatar": "https://i.imgur.com/df95t5x.jpg",
+                    "plus": 246,
+                    "minus": 54
                 }
     
             ],
@@ -451,35 +525,45 @@
                     "nick": "Karbinadel",
                     "text": "Wydawałoby się, że głupota ie jest karalna, a tu proszę, Twitter próbuje ją penalizować",
                     "commentDate": "2021-01-17 15:37",
-                    "urlAvatar": "https://i.imgur.com/owhNAKK.jpg"
+                    "urlAvatar": "https://i.imgur.com/owhNAKK.jpg",
+                    "plus": 26,
+                    "minus": 6
                 },
     
                 {
                     "nick": "ravauw",
                     "text": "A nie można udowodnić i pokazać wszystkim niedowiarkom że te wybory nie zostały jednak sfałszowane? A nie czekaj, serwerownia z serwerami obsługującymi wybory w Nashville wyleciała w powietrze",
                     "commentDate": "2021-01-17 16:38",
-                    "urlAvatar": "https://i.imgur.com/kdteLa8.jpg"
+                    "urlAvatar": "https://i.imgur.com/kdteLa8.jpg",
+                    "plus": 24,
+                    "minus": 2
                 },
     
                 {
                     "nick": "pstrzezek",
                     "text": "A czy nie łatwiej udownodnić że ziemia nie jest płaska? A czekaj, przecież wszystkie dowody są sfabrykowane!",
                     "commentDate": "2021-01-17 18:31",
-                    "urlAvatar": "https://i.imgur.com/SwX5v3I.png"
+                    "urlAvatar": "https://i.imgur.com/SwX5v3I.png",
+                    "plus": 2,
+                    "minus": 26
                 },
     
                 {
                     "nick": "iwonka50",
                     "text": "Nie ma już wolności słowa również w Polsce, mediach głównego nurtu hamujących informacje o skutecznym leku na Covid który istnieje i już mnóstwo osób zostało wyleczonych. Ale jest to nie na rękę Pfizerom i innym. Do tego mniemana pandemia oparta na fałszywie wskazujących testach PCR. Takiej skali kłamstwa, szkodzącego",
                     "commentDate": "2021-01-17 21:28",
-                    "urlAvatar": "https://imgur.com/I80W1Q0.png"
+                    "urlAvatar": "https://imgur.com/I80W1Q0.png",
+                    "plus": 66,
+                    "minus": 5
                 },
 
                 {
                     "nick": "nostsherlock",
                     "text": "Nie wiem co to za teoria spiskowa, ale z perspektywy czasu prawie zawsze jak były podejmowane działania, żeby jakąś teorię spiskową wyciszyć, to po kilku latach okazywała się prawdą. Najczęściej te związane z korupcją i sektorem finansowym",
                     "commentDate": "2021-01-17 21:28",
-                    "urlAvatar": "https://cdn1.iconfinder.com/data/icons/diversity-avatars-volume-01-v2/64/matrix-neo-man-white-512.png"
+                    "urlAvatar": "https://cdn1.iconfinder.com/data/icons/diversity-avatars-volume-01-v2/64/matrix-neo-man-white-512.png",
+                    "plus": 6,
+                    "minus": 2
                 }
     
             ],
@@ -509,35 +593,45 @@
                     "nick": "MojoJojo",
                     "text": "Szkoda gadać.. chciałem kupić laptopa do gier, ale się na razie wstrzymam do momentu aż ceny spadną.",
                     "commentDate": "2021-01-17 12:37",
-                    "urlAvatar": "https://www.dictionary.com/e/wp-content/uploads/2018/04/Mojo-Jojo-300x300.jpg"
+                    "urlAvatar": "https://www.dictionary.com/e/wp-content/uploads/2018/04/Mojo-Jojo-300x300.jpg",
+                    "plus": 26,
+                    "minus": 4
                 },
     
                 {
                     "nick": "Saruman",
                     "text": "Wszystko przez ten covid i decyzje rządu... ceny idą w góre, ludzie tracą pracę.",
                     "commentDate": "2021-01-17 13:28",
-                    "urlAvatar": "https://i2.wp.com/detektywprawdy.pl/wp-content/uploads/2014/12/Saruma.jpeg"
+                    "urlAvatar": "https://i2.wp.com/detektywprawdy.pl/wp-content/uploads/2014/12/Saruma.jpeg",
+                    "plus": 97,
+                    "minus": 23
                 },
     
                 {
                     "nick": "Yoshi",
                     "text": "Jeżeli kupować już teraz, to lepiej komputer, albo używanego laptopa",
                     "commentDate": "2021-01-17 16:51",
-                    "urlAvatar": "https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png"
+                    "urlAvatar": "https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png",
+                    "plus": 16,
+                    "minus": 7
                 },
     
                 {
                     "nick": "Marek93",
                     "text": "Mój 10 letni laptop jest lepszy niż  teraz sprzedawane laptopy za 2200zl. Żałosne",
                     "commentDate": "2021-01-17 17:23",
-                    "urlAvatar": "https://i.pinimg.com/280x280_RS/02/e2/56/02e25669258af443964c09481655d443.jpg"
+                    "urlAvatar": "https://i.pinimg.com/280x280_RS/02/e2/56/02e25669258af443964c09481655d443.jpg",
+                    "plus": 56,
+                    "minus": 5
                 },
 
                 {
                     "nick": "Jola20",
                     "text": "Chciałam kupić laptopa do zajęć zdalnych ale ceny są straszne, jeszcze rok temu taki sam laptop kosztował 1000zł mniej",
                     "commentDate": "2021-01-17 20:18",
-                    "urlAvatar": "https://image.freepik.com/free-vector/smiling-girl-avatar_102172-32.jpg"
+                    "urlAvatar": "https://image.freepik.com/free-vector/smiling-girl-avatar_102172-32.jpg",
+                    "plus": 64,
+                    "minus": 0
                 }
     
             ],
