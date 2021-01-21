@@ -144,8 +144,14 @@
     
             ],
     
-            "views": 5652,
-            "likes": 648,
+            "stats":
+            [
+                {
+                    "views": 5652,
+                    "likes": 648
+                }
+            ],
+
             "keywords":["gra","wiedzmin","cdpr","zyski"]
     
         },
@@ -208,8 +214,14 @@
     
             ],
     
-            "views": 15652,
-            "likes": 1124,
+            "stats":
+            [
+                {            
+                    "views": 15652,
+                    "likes": 1124
+                }
+            ],
+
             "keywords":["covid","szczepienia","ankieta"]
     
         },
@@ -264,8 +276,14 @@
     
             ],
     
-            "views": 842,
-            "likes": 124,
+            "stats":
+            [
+                {
+                    "views": 842,
+                    "likes": 124
+                }
+            ],
+
             "keywords":["mobilne","smartfony","sieć","5G"]
     
         },
@@ -320,8 +338,14 @@
     
             ],
     
-            "views": 1632,
-            "likes": 428,
+            "stats":
+            [
+                {
+                    "views": 1632,
+                    "likes": 428,
+                }
+            ],
+
             "keywords":["IT","AI","Nauka","SI"]
     
         },
@@ -375,9 +399,15 @@
                 }
     
             ],
-    
-            "views": 62921,
-            "likes": 3514,
+
+            "stats":
+            [
+                {
+                    "views": 62921,
+                    "likes": 3514
+                }
+            ],
+
             "keywords":["Motoryzacja","Samochody","Ciekawe"]
     
         },
@@ -432,8 +462,14 @@
     
             ],
     
-            "views": 12921,
-            "likes": 2924,
+            "stats":
+            [
+                {
+                    "views": 12921,
+                    "likes": 2924
+                }
+            ],
+
             "keywords":["Natura","Przyroda","Kataklizm"]
     
         },
@@ -508,8 +544,14 @@
     
             ],
     
-            "views": 122921,
-            "likes": 68817,
+            "stats":
+            [
+                {
+                    "views": 122921,
+                    "likes": 68817
+                }
+            ],
+
             "keywords":["Gry","Cyberpunk","CDPR","Rozrywka"]
     
         },   
@@ -575,8 +617,14 @@
     
             ],
     
-            "views": 1347,
-            "likes": 94,
+            "stats":
+            [
+                {
+                    "views": 1347,
+                    "likes": 94
+                }
+            ],
+
             "keywords":["Polityka","Twitter","Trump"]
     
         },
@@ -643,8 +691,14 @@
     
             ],
     
-            "views": 2121,
-            "likes": 235,
+            "stats":
+            [
+                {
+                    "views": 2121,
+                     "likes": 235
+                }
+            ],
+            
             "keywords":["sprzet","Laptopy","cena","drogo"]
     
         }  
